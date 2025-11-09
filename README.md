@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ---
 ### 💬 Connect With Me
-<p align="center"> <a href="http://github.com/sivaganeshpilli07/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/sivaganeshpilli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+<p align="center"> <a href="http://github.com/sivaganeshpilli07/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/siva-ganesh-pilli-38b259380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 
 
 ### 🤝 Contributing
