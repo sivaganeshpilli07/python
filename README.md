@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Latest-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/github/license/sivaganeshpilli07/python-learning?color=success" alt="License">
+  <!-- <img src="https://img.shields.io/github/license/sivaganeshpilli07/python-learning?color=success" alt="License"> -->
 </p>
 
 ---
@@ -98,10 +98,11 @@ Thanks to everyone who has contributed to this repository! 💖
 
 Want to be listed? Fork the repo and open a Pull Request with your changes, or use the all-contributors bot to add yourself automatically. See CONTRIBUTING.md for contribution guidelines.
 ---
--->
 
 ## 📜 License
 - This project is licensed under the MIT License — see the LICENSE file for details.
+-->
+
 ---
 <p align="center">⭐ If you like this repo, don’t forget to give it a star! ⭐</p> <p align="center">Made with ❤️ by <b>Siva Ganesh Pilli</b></p> 
 
