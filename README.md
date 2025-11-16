@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Latest-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/github/stars/sivaganeshpilli07/python-learning?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/sivaganeshpilli07/python-learning?style=social" alt="GitHub forks">
   <img src="https://img.shields.io/github/license/sivaganeshpilli07/python-learning?color=success" alt="License">
 </p>
 
