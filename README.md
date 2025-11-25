@@ -42,7 +42,7 @@ python-learning/
 ### ⚙️ How to Use
 - Clone this repo and explore freely:
 ```bash
-git clone https://github.com/sivaganeshpilli/python.git
+git clone https://github.com/sivaganeshpilli07/python.git
 cd python
 ```
 - Run any Python file using:
