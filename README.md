@@ -22,7 +22,7 @@ Here, you’ll find my notes, code snippets, projects, and experiments as I expl
 - 📘 **Beginner exercises** — Variables, Loops, Functions, etc.  
 - ⚙️ **Intermediate concepts** — File handling, OOP, Exception handling.  
 - 🧩 **Mini projects** — Small practical programs I build as I learn.  
-- 📊 **Libraries exploration** — Experiments with `numpy`, `pandas`, `matplotlib`, etc.  
+- 📊 **Libraries exploration** — Experiments with `numpy`, `pandas`, `matplotlib`, and ..... etc.
 - 🧪 **Practice problems** — My solutions and notes from online courses and challenges.
 
 ---
